@@ -12,7 +12,7 @@ Voting powers can be made custom and transparent through a set of rules in a sma
 * No databases were used, all is stored on chain. Thirdweb helped to deploy the SDK for NFTs and Voting tokens
 * Made with Javascript & React
 
-<img src="Assets/Project-Images/warmste-dao-highligt.jpg" />
+<img src="assets/warmste-dao-highligt.jpg" />
 
 **Setup client app for DAO**
 * 💻 Create DAO dashboard
