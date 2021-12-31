@@ -18,7 +18,7 @@ Voting powers can be made custom and transparent through a set of rules in a sma
 * 💻 Create DAO dashboard
 * 🌈 Connect to wallet functions
 
-<img src="Assets/Project-Images/warmste-week-dashboard.jpg" />
+<img src="assets/warmste-week-dashboard.jpg" />
 
 **Create membership NFTs**
 * 🌈 Deploy NFT bundle.
@@ -27,7 +27,7 @@ Voting powers can be made custom and transparent through a set of rules in a sma
 
 https://rinkeby.rarible.com/token/0xb850176b75f27c1898b25e7177dafef3cc666045:1?tab=owners
 
-<img src="Assets/Project-Images/warmste-dao-bundle.jpg" />
+<img src="assets/warmste-dao-bundle.jpg" />
 
 **Create your own token + on-chain governance**
 * 🔌 Deploy ERC-20 contract
@@ -37,7 +37,7 @@ https://rinkeby.rarible.com/token/0xb850176b75f27c1898b25e7177dafef3cc666045:1?t
 
 https://rinkeby.etherscan.io/address/0x5877aB4dfABcC8490CDaB0a3D4B641d8d7E46410
 
-<img src="Assets/Project-Images/warmste-dao-tokens.jpg" />
+<img src="assets/warmste-dao-tokens.jpg" />
 
 **Wrapping Up**
 * 🔥 Finishing touches on the UI & error handeling.
